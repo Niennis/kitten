@@ -1,0 +1,14 @@
+body{
+  position: relative;
+  background-image: url(../../assets/img/dawn.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.kitten{
+  position: absolute;
+  bottom: 0em;
+  width: 40%;
+  left: 30%;
+}
